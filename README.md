@@ -13,4 +13,4 @@ Components of the automation system are:
 * LED Bands for decoration.
 * SD CARD Module for retrieving additional information.
 * Buzzer for semnaling that the circuit is on when turned on from the app or remote(2 beeps every 0.5 milisecond for ON;1 beep(0.5 ms for OFF))
-** IR Sensor for detecting the speed of the FAN.
+* IR Motion Sensor for detecting the speed of the FAN.
