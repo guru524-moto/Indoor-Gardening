@@ -14,4 +14,3 @@ Components of the automation system are:
 * SD CARD Module for retrieving additional information.
 * Buzzer for semnaling that the circuit is on when turned on from the app or remote(2 beeps every 0.5 milisecond for ON;1 beep(0.5 ms for OFF))
 ** IR Sensor for detecting the speed of the FAN.
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/xfR8PhU" data-context="false" ><a href="//imgur.com/a/xfR8PhU"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
